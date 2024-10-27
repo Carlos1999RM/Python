@@ -1,0 +1,38 @@
+EJERCICIOS HOJA 2C
+TEMA: TEST CONDICIONALES Y IF STATEMENT
+OBJETIVO: FAMILIARIZACIÓN CON EL USO DE SENTENCIAS CONDICIONALES ANIDADAS
+
+GRUPOS DE ALUMNOS:
+En uno de los cursos se ha dividido a una clase en dos grupos A y B. Para mezclar a los alumnos
+lo mejor posible se ha asignado a todas las chicas con nombres empezando por la letra E hasta la
+M en el grupo A y el resto en el B. A los chicos con nombres empezando por la letra A hasta la H y
+R hasta la Z se les ha asignado al grupo A también, el resto están en el B.
+Crea un script que pregunte al usuario si es chica o chico y el nombre. El script debe mostrar por
+pantalla el grupo que le corresponde a ese alumno.
+
+DECLARACION DE LA RENTA:
+Para tributar en un determinado país es necesario ser mayor de edad y cobrar más de 1000 euros
+al mes. Además los tramos impositivos de la renta anual son los siguientes:
+RENTA TIPO IMPOSITIVO
+Menos de 15.000 eu 5%
+Entre 15.000 y 25.000 eu 15%
+Entre 25.000 y 35.000 eu 20%
+Entre 35.000 y 60.000 eu 30%
+Más de 60.000 eu 45%
+Escribe un script que primero compruebe si eres susceptible de que se te aplique algún tipo
+impositivo y en caso afirmativo imprima por pantalla cuál te tocaría.
+
+RESTAURANTE ONLINE:
+En una hamburguesería han abierto la posibilidad de hacer pedidos online. Ofrecen básicamente
+dos productos de fama mundial: su hamburguesa clásica y la hamburguesa vegana.
+Los ingredientes extra de la hamburguesa clásica son:
+- Queso Idiazabal
+- Bacon
+- Huevo
+Los ingredientes extra de la hamburguesa vegana son:
+- Tofu
+- Cebolla caramelizada
+Crea un script que le pregunte al usuario que tipo de hamburguesa quiere. En función de la
+respuesta debe enseñarle los ingredientes extra disponibles y permitirle escoger uno de ellos.
+Finalmente debe imprimir por pantalla que tipo de hamburguesa se ha elegido y cuales son sus
+ingredientes. 
